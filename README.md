@@ -11,8 +11,8 @@ Requirements
 - Oculus Rift #2
 - Only tested on Windows 7
 
-Screen Setup
-------------
+Setup
+-----
 
 1. Set the Windows task bar to auto-hide.
 2. Mirror the monitor and Rift #1 in your screen settings.
